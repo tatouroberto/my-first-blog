@@ -25,7 +25,7 @@ SECRET_KEY = '4fg+911!)$+yh4tzi*9gx6foab2)xaj3)3rh&+jq@^=!izbxvt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [tatou.pythonanywhere.com]
+ALLOWED_HOSTS = ['tatou.pythonanywhere.com']
 
 
 # Application definition
